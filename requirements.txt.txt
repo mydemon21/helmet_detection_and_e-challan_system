@@ -1,0 +1,5 @@
+smtplib
+PyQt5
+opencv-python
+ultralytics
+pytesseract
