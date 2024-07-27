@@ -2,6 +2,7 @@
 This project uses YOLO (You Only Look Once) object detection models to identify individuals riding motorcycles who are not wearing helmets. It automates the issuance of electronic challans (fines) by recognizing license plates from detected images and sending notifications via email.
 
 Features
+
 Person and Motorcycle Detection: Identifies individuals riding motorcycles.
 Helmet Detection: Determines if the rider is wearing a helmet.
 License Plate Recognition: Extracts and recognizes license plate numbers using OCR (Optical Character Recognition).
