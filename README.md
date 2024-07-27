@@ -45,6 +45,7 @@ Replace the path with the actual path to Tesseract OCR on your machine.
 
 
 Usage
+
 1. Run the Application
 Start the application by running the man.py script:
 
