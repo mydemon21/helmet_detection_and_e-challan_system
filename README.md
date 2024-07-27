@@ -73,4 +73,5 @@ license_plate_owners.csv: Maps license plates to email addresses for notificatio
 
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
