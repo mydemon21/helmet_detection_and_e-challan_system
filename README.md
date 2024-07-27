@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 
 4. Configure Tesseract OCR
-Ensure that Tesseract OCR is installed on your system. Set the path to the Tesseract executable in the man.py script:
+Ensure that Tesseract OCR is installed on your system. Set the path to the Tesseract executable in the main.py script:
 
 ## **python**
 
@@ -53,11 +53,11 @@ Replace the path with the actual path to Tesseract OCR on your machine.
 ## **Usage**
 
 1. Run the Application
-Start the application by running the man.py script:
+Start the application by running the main.py script:
 
 bash
 
-python man.py
+python main.py
 
 2. Select an Image
 The GUI will open. Click the "Select Image" button to choose an image file for processing. The application will analyze the image, detect persons on motorcycles, check for helmets, and extract license plates.
