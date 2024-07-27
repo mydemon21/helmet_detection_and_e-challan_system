@@ -24,7 +24,7 @@ Tesseract OCR: Optical Character Recognition tool.
 1. Clone the Repository
 bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mydemon21/helmet_detection_and_e-challan_system.git
 cd your-repo-name
 
 2. Set Up a Virtual Environment (Optional but Recommended)
