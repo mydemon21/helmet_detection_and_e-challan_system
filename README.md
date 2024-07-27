@@ -3,11 +3,11 @@ This project uses YOLO (You Only Look Once) object detection models to identify 
 
 Features
 
-Person and Motorcycle Detection: Identifies individuals riding motorcycles.
-Helmet Detection: Determines if the rider is wearing a helmet.
-License Plate Recognition: Extracts and recognizes license plate numbers using OCR (Optical Character Recognition).
-Automated Email Notifications: Sends e-challans to registered vehicle owners via email.
-GUI Interface: Provides an easy-to-use graphical interface for image selection and processing.
+Person and Motorcycle Detection: Identifies individuals riding motorcycles. 
+Helmet Detection: Determines if the rider is wearing a helmet. 
+License Plate Recognition: Extracts and recognizes license plate numbers using OCR (Optical Character Recognition). 
+Automated Email Notifications: Sends e-challans to registered vehicle owners via email. 
+GUI Interface: Provides an easy-to-use graphical interface for image selection and processing. 
 
 
 Prerequisites
